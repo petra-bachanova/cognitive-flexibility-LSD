@@ -1,0 +1,21 @@
+Rat_ID,Treatment,0 days post LSD,1 days post LSD,2 days post LSD,3 days post LSD,4 days post LSD
+LSDB01,Saline,4.0,5.0,3.0,3.0,
+LSDB02,Saline,2.0,2.0,4.0,5.0,5.0
+LSDB03,Saline,2.0,2.0,5.0,4.0,5.0
+LSDB04,Saline,3.0,5.0,4.0,3.0,
+LSDB05,Saline,2.0,2.0,3.0,3.0,5.0
+LSDB06,Saline,2.0,2.0,2.0,4.0,5.0
+LSDB07,Saline,3.0,5.0,5.0,5.0,
+LSDB08,Saline,2.0,4.0,4.0,5.0,5.0
+LSDB09,LSD,4.0,4.0,5.0,4.0,
+LSDB10,LSD,3.0,6.0,6.0,5.0,
+LSDB11,Saline,2.0,5.0,5.0,3.0,3.0
+LSDB12,LSD,2.0,4.0,5.0,5.0,4.0
+LSDB13,LSD,4.0,7.0,2.0,5.0,
+LSDB14,LSD,3.0,2.0,5.0,2.0,
+LSDB15,Saline,2.0,3.0,3.0,3.0,2.0
+LSDB16,LSD,3.0,3.0,4.0,6.0,
+LSDB17,LSD,2.0,3.0,3.0,4.0,3.0
+LSDB18,LSD,3.0,6.0,6.0,5.0,
+LSDB19,LSD,2.0,2.0,2.0,4.0,6.0
+LSDB20,Saline,2.0,3.0,5.0,5.0,7.0
